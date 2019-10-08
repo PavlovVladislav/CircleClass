@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Circle","l":"Perimetr()"},{"p":"<Unnamed>","c":"Circle","l":"Perimetr(double)"},{"p":"<Unnamed>","c":"Circle","l":"r"},{"p":"<Unnamed>","c":"Circle","l":"Square()"},{"p":"<Unnamed>","c":"Circle","l":"Square(double)"}]

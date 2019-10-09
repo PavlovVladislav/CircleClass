@@ -9,7 +9,7 @@ public class Circle{
 
     /**Constructor without parameters*/
     Circle(){
-        r = 2;
+        r = 4;
     }
 
     /**Constructor with parameters*/
@@ -41,6 +41,8 @@ public class Circle{
         return S;
     }
 
-
+    public void show (){
+        System.out.println("Значение периметра = " + Perimetr() + " Значение площи = " + Square());
+    }
 
 }
